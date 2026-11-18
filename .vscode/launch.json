@@ -4,6 +4,34 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "Unit_02.Chapter_02.Q_02_02_08.Main",
+      "projectName": "java-practice_bbaefc69"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Unit_02.Chapter_02.Q_02_02_04.Main",
+      "projectName": "java-practice_bbaefc69"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Unit_02.Chapter_02.Q_02_02_02.Main",
+      "projectName": "java-practice_bbaefc69"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Unit_02.Chapter_02.Q_02_02_03.Main",
+      "projectName": "java-practice_bbaefc69"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "Unit_02.Chapter_02.Q_02_02_04.Main",
       "projectName": "java-practice_bdfa12cc"
     },
